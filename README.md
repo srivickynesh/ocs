@@ -2,5 +2,5 @@
 
 Clone the repository
 ```
-# git clone https://github.com/iamniting/ocs.git
+# git clone https://github.com/srivickynesh/ocs.git
 ```
