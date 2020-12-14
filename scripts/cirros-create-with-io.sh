@@ -28,7 +28,7 @@ spec:
           claimName: '$claimName'
       containers:
       - name: 'cirros'
-        image: 'cirros'
+        image: 'quay.io/libpod/cirros:latest'
         imagePullPolicy: 'IfNotPresent'
         volumeMounts:
         - mountPath: '/mnt'
